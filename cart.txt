@@ -3,3 +3,4 @@ toothpaste
 carrots
 potatoes
 more candy
+chocolate
