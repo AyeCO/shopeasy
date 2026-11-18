@@ -1,3 +1,4 @@
 add item
 
 potatoes
+candy
